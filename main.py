@@ -1,7 +1,7 @@
 import time
+import project
+import ui
 
-print ("tia version control started")
-for i in range(10):
-    print (i)
-    time.sleep(1)
-    
+print ("TIA Portal Version Control")
+
+# initialize user interface
